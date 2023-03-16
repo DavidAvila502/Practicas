@@ -10,7 +10,7 @@ console.log(animales);
 
 // Posiciones
 
-console.log(animales[3]);
+console.log(animales[3]); // mangosta
 
 // imprimir el ultimo valor
 console.log(animales[animales.length - 1]); // Dragon
